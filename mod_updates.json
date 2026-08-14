@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/northwesttrees-gaming/Transitco",
+  "1.21.1": {
+    "0.1.0": "Added train tracks, \nAdded Flat Train Car, \nAdded support to dye trains, \nAdded train car linking support, \nAdded train car cargo entities, \nAnd much more!"
+  },
+  "promos": {
+    "1.21.1-latest": "0.1.0",
+    "1.21.1-recommended": "0.1.0"
+  }
+}
