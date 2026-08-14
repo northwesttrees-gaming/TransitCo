@@ -1,6 +1,6 @@
-<img width="512" height="132" alt="logo" src="https://github.com/user-attachments/assets/ebc45644-b82b-44ca-806c-34d7b2482d71" />
+<img width="1024" height="256" alt="logo" src="https://github.com/user-attachments/assets/94aed1be-b1b9-4892-957f-c03aa6c0cf34" />
 
-# TransitCo
+# Transitco
 A Minecraft mod all about transportation and logistics.
 
 ## Planned Features
